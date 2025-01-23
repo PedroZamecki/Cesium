@@ -5,11 +5,11 @@
 
   "name": "Cesium",
   "description": "",
-  "authors": [],
+  "authors": ["Zamecki"],
   "contact": {},
 
   "license": "MIT",
-  "icon": "assets/cesium/icon.png",
+  "icon": "./cesium-icon.png",
 
   "environment": "server",
   "entrypoints": {
